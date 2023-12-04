@@ -1,12 +1,17 @@
 # CMPE255 Dimensionality Reduction Assignment
 
-## Dimensionality Reduction Techniques
+## Dimensionality Reduction Techniques - [Colab](https://github.com/sjkchang/CMPE255-Dimensionality-Reduction/blob/master/DimensionalityReduction_1.ipynb)
 
-## Dimensionality Reduction then Clustering
+The colab should cover cases where it works and where it does not works.
+The colab should include: PCA, SVD, MDS, ISOMap, LLE, UMAP and t-sne
+
+## Dimensionality Reduction then Clustering - [Colab](https://github.com/sjkchang/CMPE255-Dimensionality-Reduction/blob/master/DimensionalityReduction_2.ipynb)
+
+Write a colab to illustrate how dimensionality reduction technique like umap can be used followed by clustering. (see slide show in clustering) as well as a classification feature extraction technique
 
 ## Databricks
 
-### Description of the Assignment Progress and Issue Encountered
+#### Description of the Assignment Progress and Issue Encountered
 
 As part of my assignment to demonstrate dimensionality reduction, I embarked on a project using Databricks, integrated with AWS, to analyze a chosen dataset. The dataset selected for this purpose was the Wine Quality dataset, well-regarded for its suitability in demonstrating key concepts of dimensionality reduction due to its various physicochemical properties and quality scores.
 
